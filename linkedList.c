@@ -62,7 +62,5 @@ int main() {
 
   printNodes(head);
 
-  printf("hello!");
-
   return 0;
 }
