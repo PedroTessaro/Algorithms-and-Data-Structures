@@ -16,6 +16,5 @@ int main() {
     printf("%d", A[i]);
   }
 
-  printf("Hello uwu!");
   return 0;
 }
