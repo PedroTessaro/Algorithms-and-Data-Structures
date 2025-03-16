@@ -66,6 +66,8 @@ int main() {
   enqueue(&q3, 30);
   enqueue(&q1, 90);
 
+  printf("oi");
+
   int t;
   while ((t = dequeue(&q2)) != QUEUE_EMPTY) {
     printf("t = %d\n", t);
