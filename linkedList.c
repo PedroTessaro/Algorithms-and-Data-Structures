@@ -61,8 +61,6 @@ int main() {
   insertAfter(temp, createNode(42));
 
   printNodes(head);
-  printf("Hello there!");
 
   return 0;
 }
-
